@@ -38,10 +38,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/baraaashraf/count.svg?"  />
-</div>
-
 ###
 
 <!--
